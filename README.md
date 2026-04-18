@@ -7,7 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yashika12Malviya&label=Profile%20views&color=0e75b6&style=flat" alt="Yashika12Malviya" /> </p>
 
-- 🌱 Currently working on **Python, Django, FastAPI projects** | 🔭 Projects: **Crime Prediction Model, Vehicle Tracking System, Secure Password Generator** | 🏆 Certified: **IBM Data Science Orientation (Coursera)** | 📫 Reach me at **yashika12malviya@gmail.com**
+🌱 Currently working on **Python, Django, FastAPI projects** | 🔭 Projects: **Crime Prediction Model, Vehicle Tracking System, Secure Password Generator** | 🏆 Certified: **IBM Data Science Orientation (Coursera)** | 📫 Reach me at **yashika12malviya@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
